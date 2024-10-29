@@ -1,0 +1,19 @@
+img.bbplikeimg
+{
+	width:12px;
+	height:12px;
+	display:inline-block !important;
+	vertical-align:text-top !important;
+}
+
+.var_bbp_liked_this_topic_count_text
+{
+	margin-left: 4px;
+	
+}
+
+a.bbp-most-like-link
+{
+	color: #e41775 !important;
+}
+
